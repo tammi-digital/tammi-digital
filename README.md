@@ -26,4 +26,13 @@ and convert more customers through optimized profiles and websites.
 ## How to Contact Me
 📧 Email: tigzizamazin@gmail.com 
 📍 Available for freelance & contract work
+## Business & SEO Projects
+- Google Business Profile Optimization  
+  https://github.com/yourusername/google-business-profile-optimization
+
+- Local SEO Checklist  
+  https://github.com/yourusername/local-seo-checklist
+
+- Website Audit Sample  
+  https://github.com/yourusername/website-audit-sample
 
