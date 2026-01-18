@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**tammi-digital/tammi-digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!# Hi, I'm Tammi Gallegos 👋
 
-Here are some ideas to get you started:
+I help small businesses improve their online presence, rank better on Google, 
+and convert more customers through optimized profiles and websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Google Business Profile optimization
+- Local SEO improvements
+- Website clean-up & optimization
+- Online profile setup and fixes
+
+## Projects
+- Google Business Profile Optimization – Local Service Business
+- Website SEO Cleanup – Small Business
+- Online Directory & Listing Setup
+
+## Tools I Use
+- Google Business Profile
+- Google Analytics
+- Google Search Console
+- Canva
+- Basic HTML / Website Editors
+
+## How to Contact Me
+📧 Email: tigzizamazin@gmail.com 
+📍 Available for freelance & contract work
+
