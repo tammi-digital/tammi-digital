@@ -44,7 +44,7 @@ I’m a motivated and detail-oriented beginner Data Analyst ready to work immedi
 
 ## How to Contact Me
 📧 Email: tigzizamazin@gmail.com 
-    Phone #: 719-780-9540
+    Phone #: 719-744-9376
 📍 Available for freelance & contract work 
     Can start immediately! 
 
